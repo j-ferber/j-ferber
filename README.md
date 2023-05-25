@@ -1,5 +1,10 @@
+
 ### Hi there 👋
-My name is Justin Ferber. I am currently a third-year student at Stevens Institute of Technology majoring in Computer Engineering with a minor in Software Engineering. On my GitHub you will find projects and work that I have done both in and out of school. 
+
+I'm Justin. I am currently a third-year student at Stevens Institute of Technology majoring in Computer Engineering with a minor in Software Engineering. On my GitHub you will find projects and work that I have done both in and out of school. Some things I enjoy doing in my free time are: sports, vide games, and hanging with the great people around me. 
+
+Email: <jferber@stevens.edu>
+LinkedIn: <https://www.linkedin.com/in/j-ferber/>
 
 <!--
 **j-ferber/j-ferber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
