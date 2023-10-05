@@ -5,6 +5,7 @@ I'm Justin. I am currently a third-year student at Stevens Institute of Technolo
 
 Email: <jferber@stevens.edu>  
 LinkedIn: <https://www.linkedin.com/in/j-ferber/>
+![Static Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&link=https%3A%2F%2Fjferber.netlify.app%2F)
 
 <!--
 **j-ferber/j-ferber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
