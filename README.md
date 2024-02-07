@@ -15,7 +15,7 @@ LinkedIn: <https://www.linkedin.com/in/j-ferber/>
 
 **Technologies**
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,tailwind,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,tailwind,mongodb,postgres,nextjs)](https://skillicons.dev)
 
 **Softwares**
 
