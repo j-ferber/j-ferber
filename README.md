@@ -13,10 +13,10 @@ LinkedIn: <https://www.linkedin.com/in/j-ferber/>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,python)](https://skillicons.dev)
 
-**Technologies**
+**Technologies:**
 
 [![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,tailwind,mongodb,postgres,nextjs)](https://skillicons.dev)
 
-**Softwares**
+**Softwares:**
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,)](https://skillicons.dev)
