@@ -11,7 +11,7 @@ LinkedIn: <https://www.linkedin.com/in/j-ferber/>
 ## Technical Skills 💼
 **Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,python,java)](https://skillicons.dev)
 
 **Technologies:**
 
@@ -19,4 +19,4 @@ LinkedIn: <https://www.linkedin.com/in/j-ferber/>
 
 **Softwares:**
 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,aws,docker)](https://skillicons.dev)
